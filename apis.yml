@@ -1,25 +1,80 @@
 aid: livecontrol
+
 name: LiveControl
-description: 'LiveControl is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by coatue) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://storage.googleapis.com/livecontrol-quotes.firebasestorage.app/website/assets/images/61b09e0266c7327d9ad5104a_ogplc.webp
+
+description: 'LiveControl provides remote live video production services, enabling organizations to stream events such as worship services, conferences, education sessions, and funerals without on‑site crews. Their platform includes hardware encoders, remote videographers, multi‑camera switching, analytics, and a branded web player, supporting thousands of events annually across various industries.'
+
 url: https://raw.githubusercontent.com/api-evangelist/livecontrol/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-25 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-25'
+
 modified: '2026-10-25'
+
 tags:
-- Company
-apis: []
+- Video
+- Streaming
+- RemoteProduction
+- LiveEvents
+- SaaS
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- coatue
+
 common:
+- type: LLMsTxt
+  url: llms/livecontrol-llms.txt
+- type: Hosts
+  url: hosts/livecontrol-hosts.yml
+- type: Vendors
+  url: vendors/livecontrol-vendors.yml
+- type: TermsOfService
+  url: https://www.livecontrol.io/legal/terms/
+- type: PrivacyPolicy
+  url: https://www.livecontrol.io/legal/privacy-policy/
+- type: Pricing
+  url: https://www.livecontrol.io/pricing-plan/
+- type: Blog
+  url: https://blog.livecontrol.io/
+- type: DomainSecurity
+  url: security/livecontrol-domain-security.yml
 - type: Website
   url: https://www.livecontrol.io/
+
+apis: []
+
+x-backed-by:
+- coatue
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-25'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://dashboard.livecontrol.io/mcp
+    status: 403
+  - url: https://www.livecontrol.io/
+    status: 200
+x-enrichment:
+  date: '2026-10-25'
+  status: enriched
+  artifacts_added: 8
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

@@ -1,0 +1,80 @@
+# LiveControl
+
+> LiveControl is a fully managed remote video production service. After a one-time
+> equipment install, a marketplace of professional videographers produces each of your
+> live events end to end — camera control, live switching, graphics, streaming, and
+> live support — without anyone on site. Founded 2016, operating nationwide across the
+> United States, producing 35,000+ live events per year.
+
+## What it is
+
+LiveControl provides the production labor, not just streaming tools. Platforms such as
+Resi, BoxCast, and FuneralOne help you stream, record, and distribute — but your own
+staff or volunteers still run cameras, switching, audio, and graphics. With LiveControl,
+a remote videographer operates the full multi-camera event for you.
+
+Every subscription includes the LiveControl Encoder: an on-site device connecting your
+cameras and network to the production platform, giving remote videographers real-time
+control to pan, tilt, and zoom cameras, switch angles, adjust image settings, trigger
+graphics, and manage the stream.
+
+## How it works
+
+1. **Install** — the LiveControl Encoder is installed with your cameras (existing PTZ
+   cameras from every major brand are supported; new cameras can be purchased or leased).
+2. **Schedule** — you schedule produced events in the dashboard.
+3. **Produce** — a professional videographer remotely produces the event in real time.
+4. **Stream and archive** — events stream to your branded web player and are recorded
+   automatically with unlimited archiving.
+
+A *produced event* is a multi-camera live event operated by a LiveControl remote
+videographer for a set duration (a standard produced event runs about 90 minutes).
+
+## Key facts
+
+- **Founded:** 2016. Co-founded by Jacob Braunstein, chief executive officer.
+- **Offices:** Los Angeles, South Carolina, and New York City. Service area: United States.
+- **Scale:** 35,000+ produced live events per year.
+- **Pricing:** recurring subscription, quoted per organization based on installed
+  locations, produced events scheduled, and optional add-ons. Custom quote — no public
+  price list.
+- **Commitment:** annual or multi-year agreement with a minimum of 12 produced events
+  per year. LiveControl is built for recurring production, not one-off projects.
+- **Network requirement:** stable venue internet with at least 15 Mbps upload; wired
+  connection recommended. Reviewed during onboarding before the first event.
+- **Support:** live support during every produced event by text, chat, email, and phone.
+- **Add-on services:** remote audio mixing by a dedicated audio engineer, intro/outro
+  graphics, viewer registration, live chat, donation buttons, simulcasting, and
+  multi-site support.
+
+## Who uses it
+
+Organizations in virtually every industry, nationwide: houses of worship (churches,
+synagogues), funeral homes, schools and universities, government and municipal agencies,
+entertainment and performing-arts venues, corporate and enterprise teams, sports
+organizations, healthcare, hospitality, nonprofits, and conferences and live events.
+
+## Pages
+
+- [Homepage](https://www.livecontrol.io/): what LiveControl is, how it works, industries served.
+- [Frequently Asked Questions](https://www.livecontrol.io/faq/): the most complete reference — pricing model, equipment, setup, streaming, support, and comparisons to other platforms.
+- [Pricing](https://www.livecontrol.io/pricing-plan/): Standard, Plus, and Pro package comparison.
+- [Houses of Worship](https://www.livecontrol.io/house-of-worship/): worship-specific features and workflow.
+- [Funeral Homes](https://www.livecontrol.io/funeral/): funeral and memorial streaming, family notifications, pre-need lead capture.
+- [Education](https://www.livecontrol.io/education/): graduations, lectures, athletics, and campus events.
+- [Entertainment & Performing Arts](https://www.livecontrol.io/entertainment/): music venues and theaters — ticketed streams, in-house displays, on-demand replays.
+- [Government](https://www.livecontrol.io/government/): council, board, and committee meetings with unlimited archiving for the public record.
+- [Conferences & Corporate Events](https://www.livecontrol.io/conferences/): multi-room coverage, portable production kits, hybrid Zoom integration.
+- [Remote Audio Mixing](https://www.livecontrol.io/audio/): dedicated remote audio engineers and supported mixing consoles.
+- [Client Footage](https://www.livecontrol.io/footage/): unedited sample footage and customer testimonials.
+- [Blog](https://www.livecontrol.io/blog/): 41 guides on live streaming, production equipment, and audience growth.
+- [Get a Demo](https://www.livecontrol.io/lead/): request a demo and a custom quote.
+- [Careers](https://www.livecontrol.io/careers/) and [Open Roles](https://www.livecontrol.io/careers/openings/).
+- [Terms of Service](https://www.livecontrol.io/legal/terms/) and [Privacy Policy](https://www.livecontrol.io/legal/privacy-policy/).
+
+## Contact
+
+- Website: https://www.livecontrol.io/
+- Sales: sales@livecontrol.io · 310-361-4169
+- Demo requests: https://www.livecontrol.io/lead/
+- Customer dashboard: https://dashboard.livecontrol.io/

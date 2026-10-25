@@ -1,0 +1,16 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/livecontrol/integrations
+- https://n8n.io/integrations/livecontrol/
+- https://composio.dev/toolkits/livecontrol
+- https://monid.ai/tools/livecontrol
+checked:
+- https://composio.dev/toolkits/livecontrol
+- https://monid.ai/tools/livecontrol
+- https://n8n.io/integrations/livecontrol/
+- https://zapier.com/apps/livecontrol/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
